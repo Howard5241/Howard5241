@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm **Howard**, a passionate CS major who loves solving problems through code and building fun projects along the way.  
+My nickname is **Howard**, a passionate Taiwanese CS major who loves solving problems through code and building fun projects along the way.  
 
 ## 🧩 Interests  
 - Chess enthusiast ♟️  
