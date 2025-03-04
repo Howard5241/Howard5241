@@ -1,16 +1,13 @@
-## Hi there 👋
+##Hi there! 👋
+I'm Howard, a passionate CS major who loves solving problems through code and building fun projects along the way.
 
-<!--
-**Howard5241/Howard5241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧩 Interests:
 
-Here are some ideas to get you started:
+Chess enthusiast ♟️
+Language learner (English, Spanish, French) 🌍
+Game development in Unity 🎮
+💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Coding in C, C++, C#, Python
+Learning through hands-on projects 🔧
+Used AlphaZero to solve a board game similar to Tic-Tac-Toe 🤖
