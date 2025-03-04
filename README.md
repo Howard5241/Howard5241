@@ -4,7 +4,7 @@ I'm **Howard**, a passionate CS major who loves solving problems through code an
 
 ## 🧩 Interests  
 - Chess enthusiast ♟️  
-- Language learner (English, Spanish, French) 🌍  
+- Language learner (English C1, Spanish B1, French A1) 🌍  
 - Game development in **Unity** 🎮  
 
 ## 💻 Tech Stack  
